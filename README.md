@@ -18,7 +18,7 @@ A macOS command-line tool that returns information about the currently focused U
 Once you've published this repository to GitHub, users can install it with:
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/YOUR_USERNAME/mac-focus/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/alobato/mac-focus/refs/heads/main/install.sh | bash
 ```
 
 **Before publishing:** Replace `YOUR_USERNAME` with your GitHub username in:
@@ -29,7 +29,7 @@ curl -fsSL https://raw.githubusercontent.com/YOUR_USERNAME/mac-focus/main/instal
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/mac-focus.git
+git clone https://github.com/alobato/mac-focus.git
 cd mac-focus
 ```
 
@@ -84,7 +84,7 @@ sleep 3 && mac-focus
     "width" : 1363
   },
   "pid" : 382,
-  "value" : "youtube.com/watch?v=768oFX9sSB0"
+  "value" : "youtube.com"
 }
 ```
 
