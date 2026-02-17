@@ -1,0 +1,25 @@
+# Compiled binaries
+mac-focus
+*.o
+*.out
+
+# Xcode
+.DS_Store
+build/
+*.xcodeproj
+*.xcworkspace
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Swift
+*.swiftmodule
+*.swiftdoc
+*.swiftsourceinfo
+
+# Temporary files
+*.tmp
+*.swp
+*~
