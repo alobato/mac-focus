@@ -24,7 +24,7 @@ cd "$TMP_DIR"
 
 # Download the source file
 echo "Downloading mac-focus source..."
-curl -fsSL https://raw.githubusercontent.com/YOUR_USERNAME/mac-focus/main/mac_focus.swift -o mac_focus.swift
+curl -fsSL https://raw.githubusercontent.com/alobato/mac-focus/refs/heads/main/mac_focus.swift -o mac_focus.swift
 
 # Compile
 echo "Compiling mac-focus..."
